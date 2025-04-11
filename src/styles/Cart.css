@@ -1,0 +1,14 @@
+/* Cart styles */.cart-page {
+  margin-bottom: 2rem;
+}
+
+.cart-page h2 {
+  margin-bottom: 1.5rem;
+}
+
+.cart-total {
+  margin-top: 1.5rem;
+  font-size: 1.2rem;
+  font-weight: bold;
+  text-align: right;
+}

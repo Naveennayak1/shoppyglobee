@@ -1,0 +1,36 @@
+.cart-item {
+    display: flex;
+    align-items: center;
+    margin-bottom: 1rem;
+    background: #fff;
+    padding: 1rem;
+    border-radius: 8px;
+  }
+  
+  .cart-item img {
+    width: 100px;
+    height: 100px;
+    object-fit: cover;
+    border-radius: 6px;
+    margin-right: 1rem;
+  }
+  
+  .cart-item .info {
+    flex: 1;
+  }
+  
+  .cart-item input {
+    width: 60px;
+    margin-right: 1rem;
+    padding: 0.2rem;
+  }
+  
+  .cart-item button {
+    background: crimson;
+    color: white;
+    border: none;
+    padding: 0.4rem 0.8rem;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
