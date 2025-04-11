@@ -1,0 +1,1 @@
+import{j as o,a as e}from"./index-3ac55067.js";const n=()=>o("div",{className:"container center",children:[e("h2",{children:"404 - Page Not Found"}),e("p",{children:"Sorry, the page you are looking for doesn't exist."})]});export{n as default};
